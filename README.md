@@ -4,7 +4,7 @@ This is a smiple website project
 ## Introduction 
 
 This repository is for showing how Git and GitHub work
-
+Some more text 
 ## Purpose
 
 
