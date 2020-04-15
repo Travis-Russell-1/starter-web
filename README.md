@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 Mmore text 
 ## How To Contribute 
 
-
+Please fork this repo...
 ### Copyright 
 
 2020
